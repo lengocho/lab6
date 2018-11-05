@@ -1,0 +1,63 @@
+* {
+    font-family: Tahoma;
+}
+.clear-both {
+    clear: both;
+}
+.header .logo {
+    font-weight: bold;
+    font-size: 25px;
+    float: left;
+    margin-left: 70px;
+}
+.quote {
+    background-color: #15a3ff;
+    color: white;
+    border: 3px solid black;
+    text-align: center;
+    margin: 20px;
+}
+.main-content .Semantic {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    margin-left: 50px;
+}
+.main-content .Coding {
+    float: left;
+    width: 30%;
+    padding: 20px;
+
+}
+.main-content .Positioning {
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.main-content .Box {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    margin-left: 50px;
+}
+.main-content .Working {
+    float: left;
+    width: 30%;
+    padding: 20px;
+}
+.banner {
+    margin-right: 50px;
+}
+.header .banner li {
+    border-right: 2px solid black;
+    display: inline;
+    float: right;
+    margin-bottom: 20px;
+    padding: 2px;
+}
+.footer {
+    background-color: #15a3ff;
+    color: white;
+    text-align: center;
+    border: 3px solid black;
+}
